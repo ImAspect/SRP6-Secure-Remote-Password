@@ -15,7 +15,7 @@ class UsersModels {
 		    return result
 		})
 		.catch((err) => {
-			return err
+		    return err
 		})
 	}
 }
